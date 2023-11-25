@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-[taj mahal drawing.pdf](https://github.com/SETHUKKARASI3006/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/files/13463444/taj.mahal.drawing.pdf)
+![tajmahaldrawing](https://github.com/SETHUKKARASI3006/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144979338/0a7196fb-d0d4-471e-a99b-0f6fc15801bc)
 
 ### Name:SETHUKKARASI C
 ### Register Number:23012881
